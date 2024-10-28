@@ -1,1 +1,1 @@
-# dailyExpenseTracker0611
+# A Project Demo For Tracking daily Expenses in Everyday Household
